@@ -1,0 +1,6 @@
+{
+  "name": "self_diagnostic_engine",
+  "auto_deploy": false,
+  "safety_checks": true,
+  "pause_enabled": true
+}
